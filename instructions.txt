@@ -1,0 +1,8 @@
+Instructions for Using Sticky Note Extension
+1. Download the extension by clicking the button below.
+
+2. After downloading, restart your browser.
+
+3. Pin the extension and open it once after opening the browser to make it work. else , wait a few second after booting up the browser.(works after 1st bootup)
+
+Note: You need to enable downloads from settings to download the extension after clicking download
